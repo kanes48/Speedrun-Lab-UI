@@ -1,0 +1,2321 @@
+[
+  {
+    "time": 532.617,
+    "bastionType": "STABLES",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 53.576
+      },
+      {
+        "name": "Stronghold",
+        "time": 446.973
+      },
+      {
+        "name": "End",
+        "time": 484.777
+      },
+      {
+        "name": "Dragon",
+        "time": 522.574
+      }
+    ]
+  },
+  {
+    "time": 674.678,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 55.221
+      },
+      {
+        "name": "Stronghold",
+        "time": 525.59
+      },
+      {
+        "name": "End",
+        "time": 594.968
+      },
+      {
+        "name": "Dragon",
+        "time": 649.141
+      }
+    ]
+  },
+  {
+    "time": 684.482,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 111.802
+      },
+      {
+        "name": "Stronghold",
+        "time": 511.722
+      },
+      {
+        "name": "End",
+        "time": 537.977
+      },
+      {
+        "name": "Dragon",
+        "time": 674.521
+      }
+    ]
+  },
+  {
+    "time": 710.087,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 69.27
+      },
+      {
+        "name": "Stronghold",
+        "time": 501.249
+      },
+      {
+        "name": "End",
+        "time": 592.281
+      },
+      {
+        "name": "Dragon",
+        "time": 700.116
+      }
+    ]
+  },
+  {
+    "time": 900.816,
+    "bastionType": "BRIDGE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 74.815
+      },
+      {
+        "name": "Stronghold",
+        "time": 637.56
+      },
+      {
+        "name": "End",
+        "time": 745.595
+      },
+      {
+        "name": "Dragon",
+        "time": 890.842
+      }
+    ]
+  },
+  {
+    "time": 767.106,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 120.495
+      },
+      {
+        "name": "Stronghold",
+        "time": 645.673
+      },
+      {
+        "name": "End",
+        "time": 716.576
+      },
+      {
+        "name": "Dragon",
+        "time": 757.146
+      }
+    ]
+  },
+  {
+    "time": 787.907,
+    "bastionType": "TREASURE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 40.891
+      },
+      {
+        "name": "Stronghold",
+        "time": 672.0
+      },
+      {
+        "name": "End",
+        "time": 702.845
+      },
+      {
+        "name": "Dragon",
+        "time": 777.95
+      }
+    ]
+  },
+  {
+    "time": 764.035,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 97.974
+      },
+      {
+        "name": "Stronghold",
+        "time": 590.041
+      },
+      {
+        "name": "End",
+        "time": 687.473
+      },
+      {
+        "name": "Dragon",
+        "time": 753.99
+      }
+    ]
+  },
+  {
+    "time": 963.254,
+    "bastionType": "STABLES",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 131.12
+      },
+      {
+        "name": "Stronghold",
+        "time": 670.053
+      },
+      {
+        "name": "End",
+        "time": 818.413
+      },
+      {
+        "name": "Dragon",
+        "time": 953.297
+      }
+    ]
+  },
+  {
+    "time": 878.616,
+    "bastionType": "HOUSING",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 170.74
+      },
+      {
+        "name": "Stronghold",
+        "time": 779.615
+      },
+      {
+        "name": "End",
+        "time": 802.508
+      },
+      {
+        "name": "Dragon",
+        "time": 868.661
+      }
+    ]
+  },
+  {
+    "time": 813.915,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 154.528
+      },
+      {
+        "name": "Stronghold",
+        "time": 609.586
+      },
+      {
+        "name": "End",
+        "time": 648.95
+      },
+      {
+        "name": "Dragon",
+        "time": 803.955
+      }
+    ]
+  },
+  {
+    "time": 732.26,
+    "bastionType": "BRIDGE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 119.028
+      },
+      {
+        "name": "Stronghold",
+        "time": 580.454
+      },
+      {
+        "name": "End",
+        "time": 635.231
+      },
+      {
+        "name": "Dragon",
+        "time": 722.298
+      }
+    ]
+  },
+  {
+    "time": 867.6,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 181.799
+      },
+      {
+        "name": "Stronghold",
+        "time": 686.898
+      },
+      {
+        "name": "End",
+        "time": 724.46
+      },
+      {
+        "name": "Dragon",
+        "time": 857.648
+      }
+    ]
+  },
+  {
+    "time": 906.041,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 142.113
+      },
+      {
+        "name": "Stronghold",
+        "time": 594.439
+      },
+      {
+        "name": "End",
+        "time": 734.777
+      },
+      {
+        "name": "Dragon",
+        "time": 896.084
+      }
+    ]
+  },
+  {
+    "time": 894.607,
+    "bastionType": "HOUSING",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 179.112
+      },
+      {
+        "name": "Stronghold",
+        "time": 668.995
+      },
+      {
+        "name": "End",
+        "time": 719.379
+      },
+      {
+        "name": "Dragon",
+        "time": 884.629
+      }
+    ]
+  },
+  {
+    "time": 697.552,
+    "bastionType": "TREASURE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 148.178
+      },
+      {
+        "name": "Stronghold",
+        "time": 527.09
+      },
+      {
+        "name": "End",
+        "time": 613.222
+      },
+      {
+        "name": "Dragon",
+        "time": 687.594
+      }
+    ]
+  },
+  {
+    "time": 730.33,
+    "bastionType": "STABLES",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 132.999
+      },
+      {
+        "name": "Stronghold",
+        "time": 555.481
+      },
+      {
+        "name": "End",
+        "time": 673.634
+      },
+      {
+        "name": "Dragon",
+        "time": 720.373
+      }
+    ]
+  },
+  {
+    "time": 859.402,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 124.294
+      },
+      {
+        "name": "Stronghold",
+        "time": 585.879
+      },
+      {
+        "name": "End",
+        "time": 691.311
+      },
+      {
+        "name": "Dragon",
+        "time": 849.348
+      }
+    ]
+  },
+  {
+    "time": 896.097,
+    "bastionType": "STABLES",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 153.466
+      },
+      {
+        "name": "Stronghold",
+        "time": 621.09
+      },
+      {
+        "name": "End",
+        "time": 791.843
+      },
+      {
+        "name": "Dragon",
+        "time": 886.139
+      }
+    ]
+  },
+  {
+    "time": 1045.9,
+    "bastionType": "HOUSING",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 132.844
+      },
+      {
+        "name": "Stronghold",
+        "time": 678.902
+      },
+      {
+        "name": "End",
+        "time": 917.114
+      },
+      {
+        "name": "Dragon",
+        "time": 1035.945
+      }
+    ]
+  },
+  {
+    "time": 905.755,
+    "bastionType": "TREASURE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 135.211
+      },
+      {
+        "name": "Stronghold",
+        "time": 619.344
+      },
+      {
+        "name": "End",
+        "time": 734.254
+      },
+      {
+        "name": "Dragon",
+        "time": 895.789
+      }
+    ]
+  },
+  {
+    "time": 702.295,
+    "bastionType": "BRIDGE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 141.828
+      },
+      {
+        "name": "Stronghold",
+        "time": 512.297
+      },
+      {
+        "name": "End",
+        "time": 618.383
+      },
+      {
+        "name": "Dragon",
+        "time": 692.339
+      }
+    ]
+  },
+  {
+    "time": 725.799,
+    "bastionType": "STABLES",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 143.231
+      },
+      {
+        "name": "Stronghold",
+        "time": 609.603
+      },
+      {
+        "name": "End",
+        "time": 640.204
+      },
+      {
+        "name": "Dragon",
+        "time": 715.845
+      }
+    ]
+  },
+  {
+    "time": 726.157,
+    "bastionType": "BRIDGE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 139.774
+      },
+      {
+        "name": "Stronghold",
+        "time": 602.201
+      },
+      {
+        "name": "End",
+        "time": 673.113
+      },
+      {
+        "name": "Dragon",
+        "time": 716.202
+      }
+    ]
+  },
+  {
+    "time": 1041.824,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 109.463
+      },
+      {
+        "name": "Stronghold",
+        "time": 765.106
+      },
+      {
+        "name": "End",
+        "time": 953.054
+      },
+      {
+        "name": "Dragon",
+        "time": 1031.793
+      }
+    ]
+  },
+  {
+    "time": 1225.608,
+    "bastionType": "STABLES",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 130.465
+      },
+      {
+        "name": "Stronghold",
+        "time": 517.549
+      },
+      {
+        "name": "End",
+        "time": 1022.705
+      },
+      {
+        "name": "Dragon",
+        "time": 1215.284
+      }
+    ]
+  },
+  {
+    "time": 870.046,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 109.748
+      },
+      {
+        "name": "Stronghold",
+        "time": 672.596
+      },
+      {
+        "name": "Dragon",
+        "time": 860.088
+      }
+    ]
+  },
+  {
+    "time": 657.854,
+    "bastionType": "TREASURE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 165.427
+      },
+      {
+        "name": "Stronghold",
+        "time": 549.837
+      },
+      {
+        "name": "End",
+        "time": 571.651
+      },
+      {
+        "name": "Dragon",
+        "time": 647.898
+      }
+    ]
+  },
+  {
+    "time": 840.102,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 124.001
+      },
+      {
+        "name": "Stronghold",
+        "time": 637.877
+      },
+      {
+        "name": "End",
+        "time": 676.968
+      },
+      {
+        "name": "Dragon",
+        "time": 830.075
+      }
+    ]
+  },
+  {
+    "time": 832.642,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 66.655
+      },
+      {
+        "name": "Stronghold",
+        "time": 612.344
+      },
+      {
+        "name": "End",
+        "time": 670.371
+      },
+      {
+        "name": "Dragon",
+        "time": 822.689
+      }
+    ]
+  },
+  {
+    "time": 729.24,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 44.74
+      },
+      {
+        "name": "Stronghold",
+        "time": 479.991
+      },
+      {
+        "name": "End",
+        "time": 629.383
+      },
+      {
+        "name": "Dragon",
+        "time": 719.286
+      }
+    ]
+  },
+  {
+    "time": 797.801,
+    "bastionType": "TREASURE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 148.649
+      },
+      {
+        "name": "Stronghold",
+        "time": 473.102
+      },
+      {
+        "name": "End",
+        "time": 533.672
+      },
+      {
+        "name": "Dragon",
+        "time": 787.861
+      }
+    ]
+  },
+  {
+    "time": 758.099,
+    "bastionType": "BRIDGE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 80.484
+      },
+      {
+        "name": "Stronghold",
+        "time": 607.546
+      },
+      {
+        "name": "End",
+        "time": 708.467
+      },
+      {
+        "name": "Dragon",
+        "time": 748.151
+      }
+    ]
+  },
+  {
+    "time": 1040.505,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 130.7
+      },
+      {
+        "name": "Stronghold",
+        "time": 642.605
+      },
+      {
+        "name": "End",
+        "time": 940.775
+      },
+      {
+        "name": "Dragon",
+        "time": 1030.514
+      }
+    ]
+  },
+  {
+    "time": 694.083,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 176.262
+      },
+      {
+        "name": "Stronghold",
+        "time": 560.741
+      },
+      {
+        "name": "End",
+        "time": 632.976
+      },
+      {
+        "name": "Dragon",
+        "time": 684.084
+      }
+    ]
+  },
+  {
+    "time": 999.961,
+    "bastionType": "BRIDGE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 129.318
+      },
+      {
+        "name": "Stronghold",
+        "time": 751.161
+      },
+      {
+        "name": "End",
+        "time": 820.661
+      },
+      {
+        "name": "Dragon",
+        "time": 990.261
+      }
+    ]
+  },
+  {
+    "time": 1010.486,
+    "bastionType": "TREASURE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 110.174
+      },
+      {
+        "name": "Stronghold",
+        "time": 892.482
+      },
+      {
+        "name": "End",
+        "time": 939.32
+      },
+      {
+        "name": "Dragon",
+        "time": 1000.529
+      }
+    ]
+  },
+  {
+    "time": 758.851,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 173.141
+      },
+      {
+        "name": "Stronghold",
+        "time": 615.09
+      },
+      {
+        "name": "End",
+        "time": 651.187
+      },
+      {
+        "name": "Dragon",
+        "time": 748.887
+      }
+    ]
+  },
+  {
+    "time": 865.658,
+    "bastionType": "STABLES",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 147.891
+      },
+      {
+        "name": "Stronghold",
+        "time": 658.7
+      },
+      {
+        "name": "End",
+        "time": 749.736
+      },
+      {
+        "name": "Dragon",
+        "time": 855.702
+      }
+    ]
+  },
+  {
+    "time": 843.407,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 88.02
+      },
+      {
+        "name": "Stronghold",
+        "time": 730.802
+      },
+      {
+        "name": "End",
+        "time": 794.601
+      },
+      {
+        "name": "Dragon",
+        "time": 833.455
+      }
+    ]
+  },
+  {
+    "time": 810.117,
+    "bastionType": "BRIDGE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 124.722
+      },
+      {
+        "name": "Stronghold",
+        "time": 571.653
+      },
+      {
+        "name": "End",
+        "time": 660.151
+      },
+      {
+        "name": "Dragon",
+        "time": 800.157
+      }
+    ]
+  },
+  {
+    "time": 783.282,
+    "bastionType": "TREASURE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 169.841
+      },
+      {
+        "name": "Stronghold",
+        "time": 662.748
+      },
+      {
+        "name": "End",
+        "time": 708.196
+      },
+      {
+        "name": "Dragon",
+        "time": 773.246
+      }
+    ]
+  },
+  {
+    "time": 695.298,
+    "bastionType": "TREASURE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 49.864
+      },
+      {
+        "name": "Stronghold",
+        "time": 610.692
+      },
+      {
+        "name": "End",
+        "time": 644.688
+      },
+      {
+        "name": "Dragon",
+        "time": 685.343
+      }
+    ]
+  },
+  {
+    "time": 730.607,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 110.078
+      },
+      {
+        "name": "Stronghold",
+        "time": 607.554
+      },
+      {
+        "name": "End",
+        "time": 670.174
+      },
+      {
+        "name": "Dragon",
+        "time": 720.65
+      }
+    ]
+  },
+  {
+    "time": 1036.961,
+    "bastionType": "STABLES",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 38.121
+      },
+      {
+        "name": "Stronghold",
+        "time": 929.2
+      },
+      {
+        "name": "End",
+        "time": 958.438
+      },
+      {
+        "name": "Dragon",
+        "time": 1027.0
+      }
+    ]
+  },
+  {
+    "time": 753.455,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 73.064
+      },
+      {
+        "name": "Stronghold",
+        "time": 632.055
+      },
+      {
+        "name": "End",
+        "time": 672.318
+      },
+      {
+        "name": "Dragon",
+        "time": 743.498
+      }
+    ]
+  },
+  {
+    "time": 972.049,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 82.274
+      },
+      {
+        "name": "Stronghold",
+        "time": 586.945
+      },
+      {
+        "name": "End",
+        "time": 823.342
+      },
+      {
+        "name": "Dragon",
+        "time": 962.093
+      }
+    ]
+  },
+  {
+    "time": 1063.1,
+    "bastionType": "BRIDGE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 74.613
+      },
+      {
+        "name": "Stronghold",
+        "time": 870.494
+      },
+      {
+        "name": "End",
+        "time": 1007.239
+      },
+      {
+        "name": "Dragon",
+        "time": 1053.09
+      }
+    ]
+  },
+  {
+    "time": 744.727,
+    "bastionType": "BRIDGE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 121.676
+      },
+      {
+        "name": "Stronghold",
+        "time": 579.277
+      },
+      {
+        "name": "End",
+        "time": 625.243
+      },
+      {
+        "name": "Dragon",
+        "time": 734.698
+      }
+    ]
+  },
+  {
+    "time": 752.898,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 145.001
+      },
+      {
+        "name": "Stronghold",
+        "time": 646.939
+      },
+      {
+        "name": "End",
+        "time": 699.014
+      },
+      {
+        "name": "Dragon",
+        "time": 742.805
+      }
+    ]
+  },
+  {
+    "time": 915.412,
+    "bastionType": "STABLES",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 131.895
+      },
+      {
+        "name": "Stronghold",
+        "time": 621.257
+      },
+      {
+        "name": "End",
+        "time": 683.727
+      },
+      {
+        "name": "Dragon",
+        "time": 905.422
+      }
+    ]
+  },
+  {
+    "time": 897.477,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 144.16
+      },
+      {
+        "name": "Stronghold",
+        "time": 709.281
+      },
+      {
+        "name": "End",
+        "time": 753.342
+      },
+      {
+        "name": "Dragon",
+        "time": 887.506
+      }
+    ]
+  },
+  {
+    "time": 921.945,
+    "bastionType": "STABLES",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 147.744
+      },
+      {
+        "name": "Stronghold",
+        "time": 739.39
+      },
+      {
+        "name": "End",
+        "time": 841.165
+      },
+      {
+        "name": "Dragon",
+        "time": 911.99
+      }
+    ]
+  },
+  {
+    "time": 843.952,
+    "bastionType": "STABLES",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 193.251
+      },
+      {
+        "name": "Stronghold",
+        "time": 643.051
+      },
+      {
+        "name": "End",
+        "time": 700.126
+      },
+      {
+        "name": "Dragon",
+        "time": 833.993
+      }
+    ]
+  },
+  {
+    "time": 865.59,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 153.556
+      },
+      {
+        "name": "Stronghold",
+        "time": 553.687
+      },
+      {
+        "name": "End",
+        "time": 661.504
+      },
+      {
+        "name": "Dragon",
+        "time": 855.64
+      }
+    ]
+  },
+  {
+    "time": 810.117,
+    "bastionType": "STABLES",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 45.444
+      },
+      {
+        "name": "Stronghold",
+        "time": 608.335
+      },
+      {
+        "name": "End",
+        "time": 695.671
+      },
+      {
+        "name": "Dragon",
+        "time": 800.154
+      }
+    ]
+  },
+  {
+    "time": 1023.902,
+    "bastionType": "STABLES",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 127.539
+      },
+      {
+        "name": "Stronghold",
+        "time": 663.904
+      },
+      {
+        "name": "End",
+        "time": 843.666
+      },
+      {
+        "name": "Dragon",
+        "time": 1013.976
+      }
+    ]
+  },
+  {
+    "time": 732.845,
+    "bastionType": "HOUSING",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 126.646
+      },
+      {
+        "name": "Stronghold",
+        "time": 615.297
+      },
+      {
+        "name": "End",
+        "time": 672.168
+      },
+      {
+        "name": "Dragon",
+        "time": 722.844
+      }
+    ]
+  },
+  {
+    "time": 726.494,
+    "bastionType": "BRIDGE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 173.813
+      },
+      {
+        "name": "Stronghold",
+        "time": 616.795
+      },
+      {
+        "name": "End",
+        "time": 640.662
+      },
+      {
+        "name": "Dragon",
+        "time": 716.538
+      }
+    ]
+  },
+  {
+    "time": 1141.085,
+    "bastionType": "TREASURE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 146.156
+      },
+      {
+        "name": "Stronghold",
+        "time": 758.84
+      },
+      {
+        "name": "End",
+        "time": 785.503
+      },
+      {
+        "name": "Dragon",
+        "time": 1131.055
+      }
+    ]
+  },
+  {
+    "time": 760.917,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 100.287
+      },
+      {
+        "name": "Stronghold",
+        "time": 546.166
+      },
+      {
+        "name": "End",
+        "time": 651.989
+      },
+      {
+        "name": "Dragon",
+        "time": 750.984
+      }
+    ]
+  },
+  {
+    "time": 891.956,
+    "bastionType": "STABLES",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 119.428
+      },
+      {
+        "name": "Stronghold",
+        "time": 643.655
+      },
+      {
+        "name": "End",
+        "time": 756.054
+      },
+      {
+        "name": "Dragon",
+        "time": 882.0
+      }
+    ]
+  },
+  {
+    "time": 1013.799,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 68.912
+      },
+      {
+        "name": "Stronghold",
+        "time": 905.244
+      },
+      {
+        "name": "End",
+        "time": 953.646
+      },
+      {
+        "name": "Dragon",
+        "time": 1003.844
+      }
+    ]
+  },
+  {
+    "time": 991.794,
+    "bastionType": "STABLES",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 140.54
+      },
+      {
+        "name": "Stronghold",
+        "time": 869.903
+      },
+      {
+        "name": "End",
+        "time": 900.298
+      },
+      {
+        "name": "Dragon",
+        "time": 981.858
+      }
+    ]
+  },
+  {
+    "time": 1091.259,
+    "bastionType": "BRIDGE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 152.661
+      },
+      {
+        "name": "Stronghold",
+        "time": 670.038
+      },
+      {
+        "name": "End",
+        "time": 901.474
+      },
+      {
+        "name": "Dragon",
+        "time": 1081.236
+      }
+    ]
+  },
+  {
+    "time": 669.011,
+    "bastionType": "BRIDGE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 187.769
+      },
+      {
+        "name": "Stronghold",
+        "time": 526.23
+      },
+      {
+        "name": "End",
+        "time": 562.961
+      },
+      {
+        "name": "Dragon",
+        "time": 659.005
+      }
+    ]
+  },
+  {
+    "time": 1009.896,
+    "bastionType": "TREASURE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 135.286
+      },
+      {
+        "name": "Stronghold",
+        "time": 668.295
+      },
+      {
+        "name": "End",
+        "time": 744.415
+      },
+      {
+        "name": "Dragon",
+        "time": 999.983
+      }
+    ]
+  },
+  {
+    "time": 879.306,
+    "bastionType": "STABLES",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 196.178
+      },
+      {
+        "name": "Stronghold",
+        "time": 670.879
+      },
+      {
+        "name": "End",
+        "time": 793.234
+      },
+      {
+        "name": "Dragon",
+        "time": 869.213
+      }
+    ]
+  },
+  {
+    "time": 626.667,
+    "bastionType": "BRIDGE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 114.703
+      },
+      {
+        "name": "Stronghold",
+        "time": 512.444
+      },
+      {
+        "name": "End",
+        "time": 542.671
+      },
+      {
+        "name": "Dragon",
+        "time": 616.693
+      }
+    ]
+  },
+  {
+    "time": 1017.296,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 149.309
+      },
+      {
+        "name": "Stronghold",
+        "time": 782.899
+      },
+      {
+        "name": "End",
+        "time": 879.132
+      },
+      {
+        "name": "Dragon",
+        "time": 1007.339
+      }
+    ]
+  },
+  {
+    "time": 1155.707,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 141.001
+      },
+      {
+        "name": "Stronghold",
+        "time": 1036.478
+      },
+      {
+        "name": "End",
+        "time": 1104.057
+      },
+      {
+        "name": "Dragon",
+        "time": 1145.682
+      }
+    ]
+  },
+  {
+    "time": 767.474,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 132.346
+      },
+      {
+        "name": "Stronghold",
+        "time": 587.919
+      },
+      {
+        "name": "End",
+        "time": 707.595
+      },
+      {
+        "name": "Dragon",
+        "time": 757.512
+      }
+    ]
+  },
+  {
+    "time": 1234.539,
+    "bastionType": "BRIDGE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 126.571
+      },
+      {
+        "name": "Stronghold",
+        "time": 1080.681
+      },
+      {
+        "name": "End",
+        "time": 1183.012
+      },
+      {
+        "name": "Dragon",
+        "time": 1224.577
+      }
+    ]
+  },
+  {
+    "time": 860.158,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 113.082
+      },
+      {
+        "name": "Stronghold",
+        "time": 714.138
+      },
+      {
+        "name": "End",
+        "time": 740.412
+      },
+      {
+        "name": "Dragon",
+        "time": 850.132
+      }
+    ]
+  },
+  {
+    "time": 784.506,
+    "bastionType": "BRIDGE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 45.606
+      },
+      {
+        "name": "Stronghold",
+        "time": 661.598
+      },
+      {
+        "name": "End",
+        "time": 733.27
+      },
+      {
+        "name": "Dragon",
+        "time": 774.549
+      }
+    ]
+  },
+  {
+    "time": 985.273,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 136.569
+      },
+      {
+        "name": "Stronghold",
+        "time": 752.061
+      },
+      {
+        "name": "End",
+        "time": 820.968
+      },
+      {
+        "name": "Dragon",
+        "time": 975.304
+      }
+    ]
+  },
+  {
+    "time": 785.998,
+    "bastionType": "BRIDGE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 119.082
+      },
+      {
+        "name": "Stronghold",
+        "time": 574.594
+      },
+      {
+        "name": "End",
+        "time": 643.449
+      },
+      {
+        "name": "Dragon",
+        "time": 776.05
+      }
+    ]
+  },
+  {
+    "time": 1142.307,
+    "bastionType": "BRIDGE",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 119.393
+      },
+      {
+        "name": "Stronghold",
+        "time": 786.309
+      },
+      {
+        "name": "End",
+        "time": 829.247
+      },
+      {
+        "name": "Dragon",
+        "time": 1126.501
+      }
+    ]
+  },
+  {
+    "time": 720.596,
+    "bastionType": "HOUSING",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 108.889
+      },
+      {
+        "name": "Stronghold",
+        "time": 520.799
+      },
+      {
+        "name": "End",
+        "time": 659.315
+      },
+      {
+        "name": "Dragon",
+        "time": 710.642
+      }
+    ]
+  },
+  {
+    "time": 798.329,
+    "bastionType": "BRIDGE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 150.574
+      },
+      {
+        "name": "Stronghold",
+        "time": 668.885
+      },
+      {
+        "name": "End",
+        "time": 714.761
+      },
+      {
+        "name": "Dragon",
+        "time": 788.369
+      }
+    ]
+  },
+  {
+    "time": 820.284,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 115.099
+      },
+      {
+        "name": "Stronghold",
+        "time": 591.715
+      },
+      {
+        "name": "End",
+        "time": 675.02
+      },
+      {
+        "name": "Dragon",
+        "time": 810.287
+      }
+    ]
+  },
+  {
+    "time": 812.052,
+    "bastionType": "TREASURE",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 187.421
+      },
+      {
+        "name": "Stronghold",
+        "time": 711.596
+      },
+      {
+        "name": "End",
+        "time": 756.973
+      },
+      {
+        "name": "Dragon",
+        "time": 802.096
+      }
+    ]
+  },
+  {
+    "time": 925.501,
+    "bastionType": "STABLES",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 161.54
+      },
+      {
+        "name": "Stronghold",
+        "time": 762.199
+      },
+      {
+        "name": "End",
+        "time": 804.259
+      },
+      {
+        "name": "Dragon",
+        "time": 915.548
+      }
+    ]
+  },
+  {
+    "time": 779.509,
+    "bastionType": "STABLES",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 113.267
+      },
+      {
+        "name": "Stronghold",
+        "time": 643.387
+      },
+      {
+        "name": "End",
+        "time": 684.624
+      },
+      {
+        "name": "Dragon",
+        "time": 769.553
+      }
+    ]
+  },
+  {
+    "time": 715.851,
+    "bastionType": "TREASURE",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 58.27
+      },
+      {
+        "name": "Stronghold",
+        "time": 549.145
+      },
+      {
+        "name": "End",
+        "time": 616.908
+      },
+      {
+        "name": "Dragon",
+        "time": 705.902
+      }
+    ]
+  },
+  {
+    "time": 876.886,
+    "bastionType": "BRIDGE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 131.436
+      },
+      {
+        "name": "Stronghold",
+        "time": 625.235
+      },
+      {
+        "name": "End",
+        "time": 707.441
+      },
+      {
+        "name": "Dragon",
+        "time": 866.855
+      }
+    ]
+  },
+  {
+    "time": 786.451,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 139.92
+      },
+      {
+        "name": "Stronghold",
+        "time": 622.994
+      },
+      {
+        "name": "End",
+        "time": 688.395
+      },
+      {
+        "name": "Dragon",
+        "time": 776.491
+      }
+    ]
+  },
+  {
+    "time": 821.695,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 142.83
+      },
+      {
+        "name": "Stronghold",
+        "time": 620.547
+      },
+      {
+        "name": "End",
+        "time": 716.025
+      },
+      {
+        "name": "Dragon",
+        "time": 811.742
+      }
+    ]
+  },
+  {
+    "time": 825.875,
+    "bastionType": "TREASURE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 143.15
+      },
+      {
+        "name": "Stronghold",
+        "time": 589.444
+      },
+      {
+        "name": "End",
+        "time": 695.271
+      },
+      {
+        "name": "Dragon",
+        "time": 815.847
+      }
+    ]
+  },
+  {
+    "time": 738.694,
+    "bastionType": "TREASURE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 130.259
+      },
+      {
+        "name": "Stronghold",
+        "time": 550.944
+      },
+      {
+        "name": "End",
+        "time": 613.202
+      },
+      {
+        "name": "Dragon",
+        "time": 728.757
+      }
+    ]
+  },
+  {
+    "time": 684.357,
+    "bastionType": "BRIDGE",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 126.781
+      },
+      {
+        "name": "Stronghold",
+        "time": 553.318
+      },
+      {
+        "name": "End",
+        "time": 592.361
+      },
+      {
+        "name": "Dragon",
+        "time": 674.4
+      }
+    ]
+  },
+  {
+    "time": 683.165,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 56.146
+      },
+      {
+        "name": "Stronghold",
+        "time": 501.442
+      },
+      {
+        "name": "End",
+        "time": 547.658
+      },
+      {
+        "name": "Dragon",
+        "time": 673.213
+      }
+    ]
+  },
+  {
+    "time": 894.45,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 132.761
+      },
+      {
+        "name": "Stronghold",
+        "time": 644.39
+      },
+      {
+        "name": "End",
+        "time": 687.665
+      },
+      {
+        "name": "Dragon",
+        "time": 884.492
+      }
+    ]
+  },
+  {
+    "time": 778.409,
+    "bastionType": "BRIDGE",
+    "overworldType": "BURIED_TREASURE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 101.895
+      },
+      {
+        "name": "Stronghold",
+        "time": 534.468
+      },
+      {
+        "name": "End",
+        "time": 583.298
+      },
+      {
+        "name": "Dragon",
+        "time": 768.453
+      }
+    ]
+  },
+  {
+    "time": 716.379,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 121.535
+      },
+      {
+        "name": "Stronghold",
+        "time": 556.924
+      },
+      {
+        "name": "End",
+        "time": 600.742
+      },
+      {
+        "name": "Dragon",
+        "time": 706.419
+      }
+    ]
+  },
+  {
+    "time": 758.498,
+    "bastionType": "STABLES",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 75.328
+      },
+      {
+        "name": "Stronghold",
+        "time": 533.398
+      },
+      {
+        "name": "End",
+        "time": 660.929
+      },
+      {
+        "name": "Dragon",
+        "time": 748.589
+      }
+    ]
+  },
+  {
+    "time": 855.808,
+    "bastionType": "STABLES",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 141.738
+      },
+      {
+        "name": "Stronghold",
+        "time": 600.535
+      },
+      {
+        "name": "End",
+        "time": 691.29
+      },
+      {
+        "name": "Dragon",
+        "time": 845.886
+      }
+    ]
+  },
+  {
+    "time": 621.722,
+    "bastionType": "HOUSING",
+    "overworldType": "DESERT_TEMPLE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 135.871
+      },
+      {
+        "name": "Stronghold",
+        "time": 510.42
+      },
+      {
+        "name": "End",
+        "time": 551.119
+      },
+      {
+        "name": "Dragon",
+        "time": 611.77
+      }
+    ]
+  },
+  {
+    "time": 962.908,
+    "bastionType": "HOUSING",
+    "overworldType": "VILLAGE",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 143.78
+      },
+      {
+        "name": "Stronghold",
+        "time": 800.779
+      },
+      {
+        "name": "End",
+        "time": 833.847
+      },
+      {
+        "name": "Dragon",
+        "time": 952.911
+      }
+    ]
+  },
+  {
+    "time": 824.021,
+    "bastionType": "HOUSING",
+    "overworldType": "SHIPWRECK",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 126.893
+      },
+      {
+        "name": "Stronghold",
+        "time": 507.094
+      },
+      {
+        "name": "End",
+        "time": 694.814
+      },
+      {
+        "name": "Dragon",
+        "time": 814.065
+      }
+    ]
+  },
+  {
+    "time": 930.079,
+    "bastionType": "HOUSING",
+    "overworldType": "RUINED_PORTAL",
+    "splits": [
+      {
+        "name": "Nether",
+        "time": 61.669
+      },
+      {
+        "name": "Stronghold",
+        "time": 451.535
+      },
+      {
+        "name": "End",
+        "time": 674.606
+      },
+      {
+        "name": "Dragon",
+        "time": 916.633
+      }
+    ]
+  }
+]
