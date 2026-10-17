@@ -10,6 +10,7 @@ Is only a standalone script, requires some setup in Unity:
 - Create a basic project layout in the ```Assets/``` folder (```Scripts/```, ```StreamingAssets/```)
 - Import the json into ```StreamingAssets/```
 - Import the scripts into ```Scripts/```
+- Add the provided sound to the Main Script
 - Customize as needed
 
 Version:
