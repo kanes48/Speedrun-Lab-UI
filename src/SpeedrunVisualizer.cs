@@ -38,6 +38,13 @@ public class SpeedrunVisualizer : MonoBehaviour
     [SerializeField] private float barLerpSpeed = 8f;
     [SerializeField] private int histogramBins = 12;
 
+    [Header("Run Sounds")]
+    [SerializeField] private AudioClip runSound;
+    [SerializeField, Range(0.8f, 1.2f)] private float minPitch = 0.8f;
+    [SerializeField, Range(0.8f, 1.2f)] private float maxPitch = 1.2f;
+
+    private AudioSource audioSource;
+
     private readonly List<Run> allRuns = new();
     private readonly List<Run> visibleRuns = new();
     private readonly List<Image> bars = new();
@@ -73,6 +80,9 @@ public class SpeedrunVisualizer : MonoBehaviour
         LoadRuns();
         PopulateFilters();
         ApplyFiltersAndSort();
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.playOnAwake = false;
+        audioSource.spatialBlend = 0f;
     }
 
     private void Update()
@@ -550,6 +560,18 @@ public class SpeedrunVisualizer : MonoBehaviour
         );
 
         bars.Add(image);
+
+        // Play a sound: faster runs have a slightly higher pitch.
+        if (runSound != null && audioSource != null)
+        {
+            float normalizedTime = Mathf.InverseLerp(
+                535f, scaleMax, value);
+
+            audioSource.pitch = Mathf.Lerp(
+                maxPitch, minPitch, normalizedTime);
+
+            audioSource.PlayOneShot(runSound, 0.15f);
+        }
 
         float availableHeight = Mathf.Max(2f, chart.rect.height - 45f);
 
